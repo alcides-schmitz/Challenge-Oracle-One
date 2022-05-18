@@ -1,2 +1,2 @@
-# Challenge-Oracle-One
-Decodificador de Texto
+# Alura-Challenge2-Oracle-One
+Desafio do Projeto Decodificador de Texto
