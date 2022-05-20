@@ -24,8 +24,12 @@ body {
     margin-left: 20px;
     background-image: url("imagens/boneco.png");
     background-repeat: no-repeat;
-    
-    
+}
+.imagen-text {
+     position: absolute;
+     top: 60px;
+     left: 60px;
+
 }
 .botoes {
     display: flex;
@@ -40,6 +44,15 @@ body {
     background: #D8DFE8;
     color: #0A3871;
     margin-left: 30px;
+}
+.copiar {
+    background-color: darkblue;
+    color: white;
+    margin-left :30px; 
+    
+    
+  
+    
 }
 
 .informacao {
