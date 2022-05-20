@@ -42,8 +42,11 @@ function btnCopiar(){
     copiaTexto.setSelectionRange(0,99999);
     document.execCommand('copy');
     alert("Texto Copiado!");
+    
+    
 
 }
 
-document.querySelector(".input-texto").addEventListener("click",Copiar);
+
+
 
