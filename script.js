@@ -39,13 +39,12 @@ function desencriptar(stringDesencriptar) {
 function btnCopiar(){
     let copiaTexto = document.querySelector(".mensagem");
     copiaTexto.select();
-    copiaTexto.setSelectionRange(0,99999);
+    //copiaTexto.setSelectionRange(0,99999);
     document.execCommand('copy');
     alert("Texto Copiado!");
     
-    
-
 }
+input.value = "";
 
 
 

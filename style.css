@@ -6,6 +6,7 @@
     line-height: 150%;    
 }
 
+
 body {
     background-color: #F3F5FC;
 }
@@ -13,6 +14,7 @@ body {
     display: flex;
     margin-left: 80px;
     margin-bottom: 50px;
+    
 }
 
 .input-texto {
@@ -25,11 +27,30 @@ body {
     background-image: url("imagens/boneco.png");
     background-repeat: no-repeat;
 }
+
 .imagen-text {
      position: absolute;
      top: 60px;
      left: 60px;
+     font-family: 'Roboto';
+     text-align: center;
 
+}
+
+.mensagem::placeholder {
+    
+    color: black;
+    position: absolute;
+    margin-top: 90%;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 150%;
+    
+    
+    
 }
 .botoes {
     display: flex;
@@ -57,3 +78,16 @@ body {
 .informacao {
     font-size: 15px;
 }
+
+footer{
+    text-align: center;
+    padding: 40px 0;
+   
+}
+.Copyright {
+    color: #000000;
+    font-size : 20px;
+    margin: 20px 0 0;
+}
+
+

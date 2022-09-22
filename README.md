@@ -1,2 +1,2 @@
 # Alura-Challenge2-Oracle-One:rocket: 
-Desafio do Projeto Decodificador de Texto em andamento...
+Desafio do Projeto Decodificador finalizado.
